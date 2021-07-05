@@ -1,5 +1,5 @@
 # Tracker
- _Temporary name for the app, will be changed soon.
+ *Temporary name for the app, will be changed soon.*
 
 This app was built as a project for the Object Oriented Programming course. This is also the first android application that I ever made and hence I wouldn't be making a lot of changes to it, trying to let it be a metric to how things evolve in the future.
 
